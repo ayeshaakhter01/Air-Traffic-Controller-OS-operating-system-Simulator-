@@ -1,0 +1,2 @@
+# Air-Traffic-Controller-OS-operating-system-Simulator-
+This project is to simulate an air traffic control system in C++, where planes are scheduled to land based on priority, fuel level, and other constraints, using operating system concepts. The simulator manages the allocation of runways and handles various scheduling algorithms(Best fit,priority,Banker's) to prevent congestion and ensure safety.
